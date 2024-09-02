@@ -1,0 +1,51 @@
+Exercise ID,Name,Type,Duration (min),Calories Burned,Difficulty Level
+1,Push Up,Strength,10,50,Medium
+2,Squat,Strength,15,70,Medium
+3,Running,Cardio,30,300,High
+4,Yoga,Flexibility,20,120,Low
+5,Cycling,Cardio,45,400,Medium
+6,Plank,Strength,5,30,Medium
+7,Burpee,Strength,10,80,High
+8,Jump Rope,Cardio,15,150,Medium
+9,Deadlift,Strength,25,200,High
+10,Leg Press,Strength,20,150,Medium
+11,Mountain Climber,Cardio,10,100,High
+12,Dumbbell Curl,Strength,15,60,Medium
+13,Tricep Dip,Strength,10,40,Medium
+14,High Knees,Cardio,10,90,Medium
+15,Chest Press,Strength,20,160,Medium
+16,Rowing,Cardio,30,250,Medium
+17,Wall Sit,Strength,5,25,Medium
+18,Glute Bridge,Strength,10,50,Low
+19,Box Jump,Strength,10,70,High
+20,Jumping Jacks,Cardio,10,80,Medium
+21,Side Plank,Strength,5,20,Medium
+22,Leg Raises,Strength,10,50,Medium
+23,Elliptical,Cardio,30,300,Medium
+24,Barbell Squat,Strength,25,180,High
+25,Swimming,Cardio,30,350,Medium
+26,Core Twist,Strength,15,70,Medium
+27,Stair Climbing,Cardio,20,200,Medium
+28,Medicine Ball Throw,Strength,10,60,High
+29,Resistance Band Pull,Strength,15,50,Medium
+30,Shadow Boxing,Cardio,20,180,Medium
+31,Calf Raises,Strength,10,40,Low
+32,Bicycle Crunch,Strength,15,70,Medium
+33,Agility Ladder,Cardio,15,120,High
+34,Inchworm,Strength,10,40,Medium
+35,Farmer's Walk,Strength,15,100,Medium
+36,Turkish Get-Up,Strength,20,150,High
+37,Sprints,Cardio,10,150,High
+38,Bodyweight Lunges,Strength,15,80,Medium
+39,Barbell Row,Strength,20,160,High
+40,Core Stabilization,Strength,15,60,Medium
+41,Speed Walking,Cardio,30,200,Low
+42,Chair Pose,Flexibility,10,30,Low
+43,Side Lunges,Strength,15,70,Medium
+44,Flutter Kicks,Strength,10,50,Medium
+45,Agility Drills,Cardio,15,100,High
+46,Single-leg Deadlift,Strength,15,80,Medium
+47,Hip Thrusts,Strength,20,140,Medium
+48,Dynamic Stretching,Flexibility,10,40,Low
+49,Interval Training,Cardio,30,350,High
+50,Stretching Routine,Flexibility,15,50,Low

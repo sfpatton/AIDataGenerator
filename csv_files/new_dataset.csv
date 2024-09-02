@@ -1,0 +1,131 @@
+Exercise ID,Name,Type,Duration (min),Calories Burned,Difficulty Level
+51,Lateral Raise,Strength,10,45,Medium
+52,Jump Squat,Strength,12,75,High
+53,Treadmill Interval,Cardio,25,275,High
+54,Shoulder Tap Plank,Strength,8,35,Medium
+55,Alternating Lunges,Strength,15,85,Medium
+56,Kettlebell Swing,Strength,10,70,High
+57,Breaststroke,Cardio,35,375,Medium
+58,Russian Twist,Strength,12,55,Medium
+59,Jump Lunge,Strength,10,65,High
+60,Swimming Drills,Cardio,25,300,Medium
+61,Banded Leg Kick,Strength,12,50,Medium
+62,Bear Crawl,Strength,10,60,High
+63,Skipping,Cardio,15,145,High
+64,Reverse Fly,Strength,15,65,Medium
+65,Single-arm Row,Strength,18,110,Medium
+66,Bike HIIT,Cardio,20,225,High
+67,Kneeling Pike Push-Up,Strength,12,55,Medium
+68,Lateral Raise with Band,Strength,10,50,Medium
+69,Glute Bridge March,Strength,15,65,Medium
+70,Jump Rope Interval,Cardio,15,165,High
+51,Lateral Raise,Strength,12,60,Medium
+52,Jump Squats,Strength,10,80,High
+53,Treadmill Interval,Cardio,25,250,Medium
+54,Shoulder Taps,Strength,8,40,Medium
+55,Jump Lunges,Strength,12,90,High
+56,Inversion Poses,Flexibility,15,60,Low
+57,Battle Ropes,Cardio,15,170,Medium
+58,Air Bike,Strength,10,50,Medium
+59,Seated Leg Extensions,Strength,15,80,Medium
+60,Forward Fold,Flexibility,10,30,Low
+61,Sumo Deadlift,Strength,20,160,High
+62,Stair Stepper,Cardio,30,300,Medium
+63,Bent-over Rows,Strength,18,120,Medium
+64,Circuit Training,Cardio,45,400,High
+65,Band Pull Aparts,Strength,10,50,Medium
+66,Overhead Press,Strength,15,110,Medium
+67,Skipping,Cardio,12,140,Medium
+68,Scissor Kicks,Strength,10,60,Medium
+69,Lateral Lunge,Strength,15,90,Medium
+70,Downward Dog,Flexibility,10,40,Low
+51,Hammer Curl,Strength,12,55,Medium
+52,Lateral Raise,Strength,8,35,Medium
+53,Sit-Up,Strength,10,45,Medium
+54,Butt Kick,Cardio,12,110,Medium
+55,Cross-Body Crunch,Strength,14,65,Medium
+56,Shoulder Tap,Strength,7,30,Medium
+57,Jumping Lunges,Strength,10,80,High
+58,Mountain Climber Twists,Cardio,12,120,High
+59,Breaststroke,Cardio,25,280,Medium
+60,Bent-Over Row,Strength,18,140,High
+61,Crunches,Strength,12,55,Medium
+62,Air Squat,Strength,15,75,Medium
+63,Step-Up,Strength,13,90,Medium
+64,Pike Push-Up,Strength,10,60,High
+65,Paloff Press,Strength,14,70,Medium
+66,Suitcase Carry,Strength,16,110,Medium
+67,High-Knees Running in Place,Cardio,11,105,Medium
+68,Curtsy Lunge,Strength,12,60,Medium
+69,Dead Bug,Strength,10,40,Low
+70,Woodchop,Strength,15,80,Medium
+71,Superman,Strength,8,35,Medium
+72,Frog Jumps,Strength,10,75,High
+73,Oblique Crunch,Strength,12,50,Medium
+74,Shoulder Taps,Strength,9,40,Medium
+75,Supine Hip Raise,Strength,11,45,Medium
+51,Dumbbell Overhead Press,Strength,15,90,Medium
+52,Side Hop,Cardio,10,80,Medium
+53,Band Pull Aparts,Strength,10,40,Low
+54,Kettlebell Swing,Strength,20,160,High
+55,Battle Ropes,Cardio,15,150,High
+56,Hamstring Curls,Strength,15,70,Medium
+57,Breaststroke,Cardio,30,300,Medium
+58,Reverse Lunges,Strength,15,90,Medium
+59,Russian Twist,Strength,10,50,Medium
+60,Burpee Box Jump,Strength,12,100,High
+61,Lateral Shuffles,Cardio,10,80,Medium
+62,Bench Press,Strength,20,180,High
+63,Step-up,Strength,15,100,Medium
+64,High Intensity Interval Training,Cardio,20,220,High
+65,Superman,Strength,10,40,Low
+66,Shoulder Taps,Strength,10,50,Medium
+67,Jump Squats,Strength,12,100,High
+68,Bear Crawl,Cardio,10,90,High
+69,Forward Lunge,Strength,15,80,Medium
+70,Sit-up,Strength,10,60,Medium
+51,Burpee Broad Jump,Strength,12,90,High
+52,Skipping,Cardio,18,160,Medium
+53,Battle Ropes,Strength,14,110,High
+54,Reverse Crunch,Strength,8,30,Medium
+55,Dumbbell Lateral Raise,Strength,12,50,Medium
+56,Mountain Climber Tuck,Cardio,10,80,High
+57,Seated Cable Row,Strength,18,130,Medium
+58,Box Step-up,Strength,16,100,Medium
+59,Seated Leg Curl,Strength,14,90,Low
+60,High Plank,Strength,7,40,Medium
+61,Treadmill Sprints,Cardio,12,180,High
+62,Abs Wheel Rollout,Strength,10,60,High
+63,Shoulder Tap Plank,Strength,8,35,Medium
+64,Jump Squat,Strength,11,80,High
+65,Standing Overhead Press,Strength,16,120,Medium
+66,Kettlebell Swing,Strength,13,100,High
+67,Alternating Reverse Lunge,Strength,15,90,Medium
+68,Bent-over Row,Strength,18,140,Medium
+69,Double Unders,Cardio,8,120,High
+70,Lateral Slide,Cardio,14,90,Medium
+71,Superman,Strength,10,40,Medium
+72,Pallof Press,Strength,12,60,Medium
+73,Jump Lunge,Strength,11,80,High
+74,Side-to-Side Hop,Cardio,9,70,Medium
+75,Hollow Hold,Strength,6,25,Medium
+51,Battle Ropes,Strength,15,100,High
+52,Seated Overhead Press,Strength,20,120,Medium
+53,Lateral Lunges,Strength,15,80,Medium
+54,Tricep Kickbacks,Strength,10,40,Low
+55,Sled Push,Strength,20,150,High
+56,Jump Squats,Strength,10,70,High
+57,Step-Ups,Strength,15,90,Medium
+58,Hammer Curls,Strength,10,50,Low
+59,Bench Press,Strength,25,200,High
+60,Mountain Climber Variation,Cardio,12,110,High
+61,Kettlebell Swing,Strength,15,120,Medium
+62,Reverse Fly,Strength,12,60,Medium
+63,Lateral Raises,Strength,10,50,Low
+64,Skipping,Cardio,15,160,Medium
+65,Goblet Squat,Strength,18,130,Medium
+66,Frog Jumps,Cardio,10,90,High
+67,Shoulder Taps,Strength,8,35,Medium
+68,Sumo Deadlift,Strength,22,180,High
+69,Burpee Broad Jump,Cardio,12,100,High
+70,Bird Dog,Strength,10,40,Low
